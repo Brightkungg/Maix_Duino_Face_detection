@@ -9,3 +9,12 @@
 **3. MaixPy IDE installation and use**: https://wiki.sipeed.com/soft/maixpy/en/get_started/env_maixpyide.html
 - Download MaixPy IDE: https://dl.sipeed.com/MAIX/MaixPy/ide/
 
+# Training
+**1. Prepare Dataset**: https://teachablemachine.withgoogle.com/train
+![image](https://github.com/Brightkungg/Maix_Duino_Face_detection/assets/62090513/3ee94486-4e44-415d-995e-ec202cba53d4)
+
+**2. Upload Dataset**: https://maixhub.com/model/training/project
+![image](https://github.com/Brightkungg/Maix_Duino_Face_detection/assets/62090513/96f306e5-da18-4404-ab79-5b11702cb547)
+
+**3. Upload Dataset**:
+![image](https://github.com/Brightkungg/Maix_Duino_Face_detection/assets/62090513/f407a0ca-a489-45b2-8aba-50b4443ce0e5)
